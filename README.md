@@ -15,3 +15,5 @@ ACTUALIZACIONES:
 °Se crearon 2 Notebooks adicionales para el control de la camará de archivos netCDF cuya topografía corresponda a la REPUBLICA MEXICANA y a la parte SUR de esta.
 
 °Hoja de excel con los calculos necesarios para poder modificar el código fuente del Notebook original en caso de que la región geográfica sea distinta a las ya cubiertas. Con este excel se pueden calcular los NUMEROS que multiplicaran a las coordenadas de la POSICIÓN por defecto de cada archivo netCDF, tanto para el angulo INCLINADO, como para el MUY INCLINADO.
+
+°ERROR en Widgets de Vapor SOLUCIONADO. Se recomienda usar miniforge3 y cambiar la versión de jupyter notebook a 6.1.5 o 6.5.2 (Por el momento sólo funcionan en jupyter notebook). Seguir pasos de instalación de Vapor API en el nuevo pdf de instalación. 
